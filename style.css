@@ -1,0 +1,96 @@
+*{
+  margin: 0;
+}
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+
+}
+.h2{
+  font-family:'Montserrat', sans-serif;
+}
+.h3{
+  font-family: 'Montserrat', sans-serif;
+}
+.top_container{
+  position: relative;
+  width: 100%;
+}
+.hii{
+  position: absolute;
+  width: 100%;
+  top: 150px;
+  opacity:50;
+
+}
+
+.intro{
+  font-size: 20px;
+  font-style: Montserrat;
+}
+.main_pic{
+  width:100%;
+  margin-top: 0;
+}
+.middle-container{}
+
+.profile{
+  background-color: #c6f1d6;
+  margin-bottom: 0;
+  padding: 50px;
+}
+.profile_pic{
+  border-radius: 100%;
+  width: 15%;
+  padding: 10px;
+}
+#myself{
+  font-family: 'Hepta Slab', serif;
+  font-size: 1.5em;
+}
+.skills{
+  background-color: #dadada;
+}
+.skill_1:hover{
+  padding: 30px;
+}
+.skill_2:hover{
+  padding: 30px;
+}
+.skill_3:hover{
+  padding: 30px;
+}
+.python{
+  width: 15%;
+
+}
+.ds{
+  width: 13%;
+  border-radius: 10%;
+}
+.photo{
+  width: 15%;
+  border-radius: 10%;
+}
+.contact-me{
+  background-color: #a4d1c8;
+  padding: 20px;
+}
+.btn:hover{
+  text-decoration: none;
+}
+.bottom-container{
+  background-color: #83b582;
+  padding:8px;
+}
+.footer-link:hover{
+  text-decoration: none;
+
+
+}
